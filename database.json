@@ -1,15 +1,6 @@
 {
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/bfbc7626ff946260e7ea21bdecec0c2a.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/bfbc7626ff946260e7ea21bdecec0c2a.git",
-      "LinkedCadEngine.groovy"
-    ],
-    "https://gist.github.com/bfbc7626ff946260e7ea21bdecec0c2a.git:DhTestBot.xml": [
-      "https://gist.github.com/bfbc7626ff946260e7ea21bdecec0c2a.git",
-      "DhTestBot.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
