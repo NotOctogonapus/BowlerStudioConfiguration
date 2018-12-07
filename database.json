@@ -1,9 +1,9 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/c3fc39308a506d4cb1cd7297193c41e7.git:LinkedCadEngine.groovy": [
+    "https://gist.github.com/c3fc39308a506d4cb1cd7297193c41e7.git:DefaultDhSolver.groovy": [
       "https://gist.github.com/c3fc39308a506d4cb1cd7297193c41e7.git",
-      "LinkedCadEngine.groovy"
+      "DefaultDhSolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
