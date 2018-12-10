@@ -1,9 +1,9 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/c3fc39308a506d4cb1cd7297193c41e7.git:DefaultDhSolver.groovy": [
-      "https://gist.github.com/c3fc39308a506d4cb1cd7297193c41e7.git",
-      "DefaultDhSolver.groovy"
+    "https://gist.github.com/646b72e5ba79d104af4a1f640b60835e.git:helloWorld.groovy": [
+      "https://gist.github.com/646b72e5ba79d104af4a1f640b60835e.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
