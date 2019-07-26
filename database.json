@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git": [
+      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
+      "1564155336912"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git:HephaestusWorkCell_copy.xml": [
