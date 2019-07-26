@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git": [
+      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
+      "1564155445319"
+    ],
     "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git": [
       "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
       "1564155336912"
@@ -7,8 +11,8 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git:HephaestusWorkCell_copy.xml": [
-      "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git",
+    "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git:HephaestusWorkCell_copy.xml": [
+      "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git",
       "HephaestusWorkCell_copy.xml"
     ]
   },
