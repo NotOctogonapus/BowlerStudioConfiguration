@@ -22,10 +22,6 @@
     "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git:cube.groovy": [
       "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git",
       "cube.groovy"
-    ],
-    "https://github.com/NotOctogonapus/DHParametersCadDisplay.git:dhcad.groovy": [
-      "https://github.com/NotOctogonapus/DHParametersCadDisplay.git",
-      "dhcad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
