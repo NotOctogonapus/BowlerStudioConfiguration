@@ -4,6 +4,10 @@
       "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
       "1564155445319"
     ],
+    "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git": [
+      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
+      "1566235159570"
+    ],
     "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git": [
       "GIST: cube.groovy",
       "1564762473271"
@@ -26,6 +30,10 @@
     "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git:HephaestusWorkCell_copy.xml": [
       "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git",
       "HephaestusWorkCell_copy.xml"
+    ],
+    "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git:seaLinkGen.groovy": [
+      "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git",
+      "seaLinkGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
