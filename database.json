@@ -27,17 +27,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git:cube.groovy": [
-      "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git",
-      "cube.groovy"
-    ],
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaArm.xml": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaArm.xml"
-    ],
-    "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git:HephaestusWorkCell_copy.xml": [
-      "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git",
-      "HephaestusWorkCell_copy.xml"
     ]
   },
   "BowlerStudioConfigs": {
