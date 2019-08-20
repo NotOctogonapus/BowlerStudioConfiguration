@@ -31,34 +31,14 @@
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaArm.xml"
     ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:encoderBoard.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "encoderBoard.groovy"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:loadCell.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "loadCell.groovy"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:LinkedGearedCadGen.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "LinkedGearedCadGen.groovy"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "bearing.groovy"
-    ],
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
-    ],
-    "https://gist.github.com/8d15db45599814667f8be1f3910806eb.git:lockNut.groovy": [
-      "https://gist.github.com/8d15db45599814667f8be1f3910806eb.git",
-      "lockNut.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
-    "fontsize": 20.0,
+    "fontsize": 12,
     "skinBranch": "0.30.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
