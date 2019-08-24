@@ -38,6 +38,10 @@
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
+    ],
+    "https://github.com/NotOctogonapus/SeriesElasticActuator.git:LinkedGearedCadGen.groovy": [
+      "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
+      "LinkedGearedCadGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
