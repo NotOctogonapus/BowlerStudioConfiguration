@@ -4,6 +4,10 @@
       "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
       "1564155445319"
     ],
+    "https://github.com/NotOctogonapus/greycat.git": [
+      "NotOctogonapus/greycat",
+      "1572124879705"
+    ],
     "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git": [
       "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
       "1566235159570"
@@ -38,6 +42,10 @@
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
+    ],
+    "https://github.com/NotOctogonapus/greycat.git:MediumKat.xml": [
+      "https://github.com/NotOctogonapus/greycat.git",
+      "MediumKat.xml"
     ],
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:LinkedGearedCadGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
