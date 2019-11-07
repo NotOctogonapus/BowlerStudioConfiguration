@@ -47,6 +47,10 @@
       "https://github.com/NotOctogonapus/SmallKat_V2.git",
       "loadRobot.groovy"
     ],
+    "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
+      "https://github.com/NotOctogonapus/greycat.git",
+      "launch.groovy"
+    ],
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
