@@ -8,6 +8,10 @@
       "NotOctogonapus/greycat",
       "1572124879705"
     ],
+    "https://github.com/NotOctogonapus/SmallKat_V2.git": [
+      "NotOctogonapus/SmallKat_V2",
+      "1573158292729"
+    ],
     "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git": [
       "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
       "1566235159570"
@@ -42,6 +46,10 @@
     "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
       "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scripts/Motor.groovy"
+    ],
+    "https://github.com/NotOctogonapus/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/NotOctogonapus/SmallKat_V2.git",
+      "loadRobot.groovy"
     ],
     "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
