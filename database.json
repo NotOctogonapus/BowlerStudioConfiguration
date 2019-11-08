@@ -1,67 +1,15 @@
 {
   "workspace": {
-    "https://gist.github.com/14c827a86d9a1853c047106b1c9d01b8.git": [
-      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
-      "1564155445319"
-    ],
     "https://github.com/NotOctogonapus/greycat.git": [
       "NotOctogonapus/greycat",
       "1572124879705"
-    ],
-    "https://github.com/NotOctogonapus/SmallKat_V2.git": [
-      "NotOctogonapus/SmallKat_V2",
-      "1573158292729"
-    ],
-    "https://gist.github.com/d59d758e321d49c5d95932ef01e5f8b2.git": [
-      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
-      "1566235159570"
-    ],
-    "https://gist.github.com/b82f0d7676534790abdd3a69152cb36d.git": [
-      "GIST: cube.groovy",
-      "1564762473271"
-    ],
-    "https://gist.github.com/65ac76aeb898d2c00867b7b8397367e9.git": [
-      "GIST: HephaestusWorkCell_copy copy of HephaestusWorkCell",
-      "1564155336912"
-    ],
-    "https://github.com/NotOctogonapus/DHParametersCadDisplay.git": [
-      "NotOctogonapus/DHParametersCadDisplay",
-      "1564155567922"
-    ],
-    "https://github.com/NotOctogonapus/SeriesElasticActuator.git": [
-      "NotOctogonapus/SeriesElasticActuator",
-      "1566236083627"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaArm.xml": [
-      "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
-      "seaArm.xml"
-    ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Motor.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Motor.groovy"
-    ],
-    "https://github.com/NotOctogonapus/SmallKat_V2.git:loadRobot.groovy": [
-      "https://github.com/NotOctogonapus/SmallKat_V2.git",
-      "loadRobot.groovy"
-    ],
     "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "launch.groovy"
-    ],
-    "https://github.com/NotOctogonapus/SeriesElasticActuator.git:seaLinkGen.groovy": [
-      "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
-      "seaLinkGen.groovy"
-    ],
-    "https://github.com/NotOctogonapus/greycat.git:MediumKat.xml": [
-      "https://github.com/NotOctogonapus/greycat.git",
-      "MediumKat.xml"
-    ],
-    "https://github.com/NotOctogonapus/SeriesElasticActuator.git:LinkedGearedCadGen.groovy": [
-      "https://github.com/NotOctogonapus/SeriesElasticActuator.git",
-      "LinkedGearedCadGen.groovy"
     ]
   },
   "BowlerStudioConfigs": {
