@@ -7,6 +7,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "none:/home/salmon/eclipse-workspace/SmallKatLuna/test.groovy": [
+      "none",
+      "/home/salmon/eclipse-workspace/SmallKatLuna/test.groovy"
+    ],
     "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "launch.groovy"
