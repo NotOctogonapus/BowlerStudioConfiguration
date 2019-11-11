@@ -3,6 +3,10 @@
     "https://github.com/NotOctogonapus/greycat.git": [
       "NotOctogonapus/greycat",
       "1572124879705"
+    ],
+    "https://github.com/NotOctogonapus/SmallKat_V2.git": [
+      "NotOctogonapus/SmallKat_V2",
+      "1573504686271"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/NotOctogonapus/greycat.git:myWalkingScript.groovy": [
+      "https://github.com/NotOctogonapus/greycat.git",
+      "myWalkingScript.groovy"
     ]
   },
   "BowlerStudioConfigs": {
