@@ -2,29 +2,14 @@
   "workspace": {
     "https://github.com/NotOctogonapus/greycat.git": [
       "NotOctogonapus/greycat",
-      "1572124879705"
-    ],
-    "https://github.com/NotOctogonapus/SmallKat_V2.git": [
-      "NotOctogonapus/SmallKat_V2",
-      "1573504686271"
+      "1574279674341"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
-      "https://github.com/NotOctogonapus/greycat.git",
-      "launch.groovy"
-    ],
     "https://github.com/NotOctogonapus/greycat.git:myWalkingScript.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
     ]
-  },
-  "BowlerStudioConfigs": {
-    "firstVersion": "0.28.1",
-    "fontsize": 14.0,
-    "skinBranch": "0.30.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
   }
 }
