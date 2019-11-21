@@ -11,6 +11,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/NotOctogonapus/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/NotOctogonapus/SmallKat_V2.git",
+      "loadRobot.groovy"
+    ],
     "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "launch.groovy"
@@ -19,5 +23,8 @@
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "fontsize": 14
   }
 }
