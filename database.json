@@ -11,10 +11,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/NotOctogonapus/SmallKat_V2.git:loadRobot.groovy": [
-      "https://github.com/NotOctogonapus/SmallKat_V2.git",
-      "loadRobot.groovy"
-    ],
     "https://github.com/NotOctogonapus/greycat.git:launch.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "launch.groovy"
@@ -22,6 +18,10 @@
     "https://github.com/NotOctogonapus/greycat.git:myWalkingScript.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "myWalkingScript.groovy"
+    ],
+    "none:/home/salmon/Documents/lunakat/src/main/java/walkingScript.groovy": [
+      "none",
+      "/home/salmon/Documents/lunakat/src/main/java/walkingScript.groovy"
     ]
   },
   "BowlerStudioConfigs": {
