@@ -11,6 +11,14 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
+    "https://github.com/NotOctogonapus/greycat.git:MediumKat_black.xml": [
+      "https://github.com/NotOctogonapus/greycat.git",
+      "MediumKat_black.xml"
+    ],
     "https://github.com/NotOctogonapus/greycat.git:dynamics.groovy": [
       "https://github.com/NotOctogonapus/greycat.git",
       "dynamics.groovy"
